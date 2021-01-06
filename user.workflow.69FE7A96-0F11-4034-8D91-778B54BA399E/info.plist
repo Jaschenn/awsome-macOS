@@ -12,7 +12,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>CF117D0F-0FCA-4DF6-92D1-1565BB8CEC74</string>
+				<string>54CCAFD9-B30C-4AD4-829A-E74771536CE7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -76,7 +76,7 @@
 			<key>config</key>
 			<dict>
 				<key>concurrently</key>
-				<false/>
+				<true/>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
@@ -157,16 +157,16 @@ import requests</string>
 		<key>54CCAFD9-B30C-4AD4-829A-E74771536CE7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>670</integer>
+			<integer>600</integer>
 			<key>ypos</key>
-			<integer>35</integer>
+			<integer>65</integer>
 		</dict>
 		<key>AC8BE86B-4E6E-4106-B1CF-619A530703CE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>305</integer>
+			<integer>330</integer>
 			<key>ypos</key>
-			<integer>65</integer>
+			<integer>100</integer>
 		</dict>
 		<key>BC2EFF9F-6CB4-49A9-98D2-EEE662D91B29</key>
 		<dict>
@@ -178,9 +178,9 @@ import requests</string>
 		<key>CF117D0F-0FCA-4DF6-92D1-1565BB8CEC74</key>
 		<dict>
 			<key>xpos</key>
-			<integer>610</integer>
+			<integer>515</integer>
 			<key>ypos</key>
-			<integer>215</integer>
+			<integer>260</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
