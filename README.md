@@ -3,4 +3,4 @@
 ## Alfred
 ### workflows
 [翻译选中的内容为中文](./user.workflow.69FE7A96-0F11-4034-8D91-778B54BA399E/)
-![视频](./user.workflow.69FE7A96-0F11-4034-8D91-778B54BA399E/使用CMD+T翻译选中的文本.mov)
+![视频](./user.workflow.69FE7A96-0F11-4034-8D91-778B54BA399E/使用CMD+T翻译选中的文本.gif)
